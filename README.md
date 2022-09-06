@@ -11,7 +11,7 @@ The focus on this project was to create an online store with various HTML pages.
 With more time, I would like to add more HTML pages to make the website more of a shop. I would also like to implement passport authentication and a way to use the shopping cart effectively. Lastly, I would like to change the theme of it just a smidge.
 
 ## Lessons Learned:
-I learned how to effectively link HTML pages to one another in order to make an actual web application. Also, Javascript can sometimes either my downfall or uprising in a project depending how well I keep the order of concerns.
+I learned how to effectively link HTML pages to one another in order to make an actual web application. Also, Javascript can sometimes either be my downfall or uprising in a project depending how well I keep the order of concerns.
 
 
 
